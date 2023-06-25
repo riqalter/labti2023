@@ -1,0 +1,74 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "namagame": "Valorant",
+            "genre": "FPS",
+            "developer": "Riot Games",
+            "tahunrilis": "2020"
+        },
+        {
+            "id": 2,
+            "namagame": "Overwatch",
+            "genre": "FPS",
+            "developer": "Blizzard Entertainment",
+            "tahunrilis": "2016"
+        },
+        {
+            "id": 3,
+            "namagame": "The Witcher 3: Wild Hunt",
+            "genre": "RPG",
+            "developer": "CD Projekt RED",
+            "tahunrilis": "2015"
+        },
+        {
+            "id": 4,
+            "namagame": "Grand Theft Auto V",
+            "genre": "Action-adventure",
+            "developer": "Rockstar North",
+            "tahunrilis": "2013"
+        },
+        {
+            "id": 5,
+            "namagame": "Fortnite",
+            "genre": "Battle Royale",
+            "developer": "Epic Games",
+            "tahunrilis": "2017"
+        },
+        {
+            "id": 6,
+            "namagame": "Minecraft",
+            "genre": "Sandbox",
+            "developer": "Mojang Studios",
+            "tahunrilis": "2011"
+        },
+        {
+            "id": 7,
+            "namagame": "Assassin's Creed Valhalla",
+            "genre": "Action-adventure",
+            "developer": "Ubisoft Montreal",
+            "tahunrilis": "2020"
+        },
+        {
+            "id": 8,
+            "namagame": "FIFA 22",
+            "genre": "Sports",
+            "developer": "EA Sports",
+            "tahunrilis": "2021"
+        },
+        {
+            "id": 9,
+            "namagame": "Call of Duty: Modern Warfare",
+            "genre": "FPS",
+            "developer": "Infinity Ward",
+            "tahunrilis": "2019"
+        },
+        {
+            "id": 10,
+            "namagame": "Red Dead Redemption 2",
+            "genre": "Action-adventure",
+            "developer": "Rockstar Studios",
+            "tahunrilis": "2018"
+        }
+    ]
+}

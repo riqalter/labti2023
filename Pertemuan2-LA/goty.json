@@ -1,0 +1,84 @@
+{
+    "GameofTheYear": [
+        {
+            "id": 1,
+            "tahun": 2022,
+            "judul": "Elden Ring",
+            "developer": "FromSoftware",
+            "publisher": "Global: Bandai Namco Entertainment, JP: FromSoftware",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 2,
+            "tahun": 2021,
+            "judul": "It Takes Two",
+            "developer": "Hazelight Studios",
+            "publisher": "Electronic Arts",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 3,
+            "tahun": 2020,
+            "judul": "The Last of Us Part II",
+            "developer": "Naughty Dog",
+            "publisher": "Sony Interactive Entertainment",
+            "platform": "Console"
+        },
+        {
+            "id": 4,
+            "tahun": 2019,
+            "judul": "Sekiro: Shadows Die Twice",
+            "developer": "FromSoftware",
+            "publisher": "Activision",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 5,
+            "tahun": 2018,
+            "judul": "God of War",
+            "developer": "Santa Monica Studio",
+            "publisher": "Sony Interactive Entertainment",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 6,
+            "tahun": 2017,
+            "judul": "The Legend of Zelda: Breath of the Wild",
+            "developer": "Nintendo EPD",
+            "publisher": "Nintendo",
+            "platform": "Wii U, Nintendo Switch"
+        },
+        {
+            "id": 7,
+            "tahun": 2016,
+            "judul": "Overwatch",
+            "developer": "Blizzard Entertainment",
+            "publisher": "Blizzard Entertainment",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 8,
+            "tahun": 2015,
+            "judul": "The Witcher 3: Wild Hunt",
+            "developer": "CD Projekt Red",
+            "publisher": "CD Projekt",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 9,
+            "tahun": 2014,
+            "judul": "Dragon Age: Inquisition",
+            "developer": "BioWare",
+            "publisher": "Electronic Arts",
+            "platform": "Console, PC"
+        },
+        {
+            "id": 10,
+            "tahun": 2013,
+            "judul": "Grand Theft Auto V",
+            "developer": "Rockstar North",
+            "publisher": "Rockstar Games",
+            "platform": "Console, PC"
+        }
+    ]
+}

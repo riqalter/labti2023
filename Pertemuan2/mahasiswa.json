@@ -1,0 +1,39 @@
+{
+    "mahasiswa": [
+        {
+            "id": 1,
+            "nama": "Mikail Thoriq Kariemshah Banowo",
+            "npm": 50422881,
+            "jurusan": "Teknik Informatika",
+            "kelas": "1IA19"
+        },
+        {
+            "id": 2,
+            "nama": "AFIQ ANTARIKSA GUNAWAN",
+            "npm": 50422108,
+            "jurusan": "Teknik Informatika",
+            "kelas": "1IA19"
+        },
+        {
+            "id": 3,
+            "nama": "AKHMAD HAIFAN NUR IZURI",
+            "npm": 50422149,
+            "jurusan": "Teknik Informatika",
+            "kelas": "1IA19"
+        },
+        {
+            "id": 4,
+            "nama": "CLIFF JORDAN",
+            "npm": 51422169,
+            "jurusan": "Teknik Informatika",
+            "kelas": "1IA19"
+        },
+        {
+            "id": 5,
+            "nama": "INDRA FATA SONJAYA",
+            "npm": 50422708,
+            "jurusan": "Teknik Informatika",
+            "kelas": "1IA19"
+        }
+    ]
+}

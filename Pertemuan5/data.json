@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "name": "Toko Tanaman",
+        "address": "Solo",
+        "phone": "0812912930123"
+    },
+    {
+        "id": 5,
+        "name": "Toko Kayu",
+        "address": "Banyuwangi",
+        "phone": "0812912930123"
+    },
+    {
+        "id": 6,
+        "name": "Toko Batu",
+        "address": "Jakarta",
+        "phone": "0812912930123"
+    },
+    {
+        "name": "Toko Mainan",
+        "address": "Depok",
+        "phone": "0128812931",
+        "id": 7
+    },
+    {
+        "id": 8,
+        "name": "Toko Bukung",
+        "address": "Depok",
+        "phone": "08123912390123"
+    },
+    {
+        "id": 9,
+        "name": "Mikail Thoriq Kariemshah Banowo",
+        "address": "Depok",
+        "phone": "50422881"
+    }
+]
